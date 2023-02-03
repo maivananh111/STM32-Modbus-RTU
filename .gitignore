@@ -1,0 +1,10 @@
+/Middlewares
+/Debug
+/Drivers
+/.settings
+Core/Src/*
+!Core/Src/main.cpp
+Core/Inc/*
+!Core/Inc/main.h
+Core/Startup
+
